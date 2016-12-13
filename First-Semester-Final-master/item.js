@@ -5,7 +5,9 @@ class Item{
     this.price= p;
     this.shipping= s;
   }
-
+this.jersey=new Item("jersey", 30, 10);
+this.hoodie=new Item("hoodie", 50, 5);
+this.hat=new Item("hat", 30, 0);
 
 
 }
